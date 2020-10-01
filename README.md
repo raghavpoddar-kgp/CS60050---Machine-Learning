@@ -1,0 +1,1 @@
+This repository contains assignment submissions of the course CS60050 - Machine Learning at IIT Kharagpur.
